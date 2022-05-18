@@ -100,7 +100,7 @@ html{
 
 .home{
     display: flex;
-    background: url("1.jpg") no-repeat center;
+    background: url("bg.jpg") no-repeat center;
     background-size: cover;
     height: 100vh;
     color: white;
